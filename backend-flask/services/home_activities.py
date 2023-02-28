@@ -14,7 +14,7 @@ class HomeActivities:
       'replies': [{
         'uuid': '26e12864-1c26-5c3a-9658-97a10f8fea67',
         'reply_to_activity_uuid': '68f126b0-1ceb-4a33-88be-d90fa7109eee',
-        'handle':  'Worf',
+        'handle':  'Kuda',
         'message': 'This post has no honor!',
         'likes_count': 0,
         'replies_count': 0,
@@ -24,8 +24,8 @@ class HomeActivities:
     },
     {
       'uuid': '66e12864-8c26-4c3a-9658-95a10f8fea67',
-      'handle':  'Worf',
-      'message': 'I am out of prune juice',
+      'handle':  'Kuda',
+      'message': 'Are you happy now?',
       'created_at': (now - timedelta(days=7)).isoformat(),
       'expires_at': (now + timedelta(days=9)).isoformat(),
       'likes': 0,
